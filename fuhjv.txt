@@ -1,0 +1,7 @@
+echo "# django_cityloc_pkg_robelambachew9" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/robelambachew9/django_cityloc_pkg_robelambachew9.git
+git push -u origin main
